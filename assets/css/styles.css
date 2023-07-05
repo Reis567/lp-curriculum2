@@ -63,6 +63,14 @@
     color: aqua;
 }
 
+.repository {
+    color: var(--primary-color);
+}
+.repository:hover{
+    color: aqua;
+}
+
+
 .grid-one-content {
     min-height: 100vh;
     display: flex;
@@ -83,6 +91,9 @@
     grid-template-columns: repeat(3 , 1fr);
     gap: var(--gap);
     counter-reset: grid-counter;
+}
+.repository{
+    color: var(--primary-color);
 }
 
 .grid a{
