@@ -1,4 +1,4 @@
-# Landing Page - Matheus dos Reis
+# Resume in a Landing Page - Matheus dos Reis
 Portuguese Version at the end
 
 
@@ -7,7 +7,7 @@ Portuguese Version at the end
 
 ## Introduction
 
-Hello! Welcome to my landing page. I'm Matheus dos Reis, and I created this site to showcase my HTML and CSS skills, as well as share information about my work and provide contact options.
+Hello! Welcome to my resume. I'm Matheus dos Reis, and I created this site to showcase my HTML and CSS skills, as well as share information about my work and provide contact options.
 
 ## Profile
 
@@ -30,14 +30,14 @@ I hope this landing page has provided you with an overview of me and my work. If
 
 
 ### PORTUGUÊS
-# Landing Page - Matheus dos Reis
+# Currículo em Landing Page - Matheus dos Reis
 
 ## Deploy: [matheusdosreislp.netlify.app](https://matheusdosreislp.netlify.app/#)
 ## GitHub: [github.com/Reis567](https://github.com/Reis567)
 
 ## Introdução
 
-Olá! Bem-vindo à minha landing page. Eu sou o Matheus dos Reis, e criei este site para demonstrar meus conhecimentos em HTML e CSS, além de compartilhar informações sobre meu trabalho e oferecer formas de contato.
+Olá! Bem-vindo ao meu curriculo. Eu sou o Matheus dos Reis, e criei este site para demonstrar meus conhecimentos em HTML e CSS, além de compartilhar informações sobre meu trabalho e oferecer formas de contato.
 
 ## Perfil
 
