@@ -61,15 +61,21 @@
 }
 .repositorio-link a:hover{
     color: aqua;
+    
 }
 
 .repository {
     color: var(--primary-color);
 }
 .repository:hover{
-    color: aqua;
+    color: #5a57eb;
+    transition: .5s;
+    text-decoration: none;
+    
 }
-
+.main-content button{
+    box-shadow: 1px 1px 2px #ffffff1a;
+}
 
 .grid-one-content {
     min-height: 100vh;
@@ -96,9 +102,6 @@
     color: var(--primary-color);
 }
 
-.grid a{
-    color:white;
-}
 
 .link-a-azul a{
     color: var(--primary-color);
@@ -108,8 +111,9 @@
     color: var(--white-color);
 }
 
-.grid a:hover{
+.grid button:hover{
     color: aqua;
+    background: var();
 }
 
 .grid h3 {
